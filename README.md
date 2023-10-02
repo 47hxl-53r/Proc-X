@@ -25,4 +25,4 @@ ProcX is a small and simple program based on c++ designed to help you stop proce
 If you're a developer and want to compile the program, you can use the following simple command:
 
 ```shell
-gcc procx.cpp -o ProcX.exe -mwindows -luser32 
+gcc ProcX.cpp -o ProcX.exe -mwindows -luser32 
