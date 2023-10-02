@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2023 47hxl-53r
+ * All rights reserved. See the MIT License for details:
+ * https://opensource.org/licenses/MIT
+ */
+
 #include <windows.h>
 #include <wchar.h>
 
